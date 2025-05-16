@@ -88,13 +88,13 @@ Options:
 Examples:
 ```
 # Quick scan of a single host
-python3 ./netscan.py -t 192.168.1.1 -s 1
+python3 ./netscan_tool.py -t 192.168.1.1 -s 1
 
 # Vulnerability scan of a network range
-python netscan.py -t 192.168.1.1-254 -s 4
+python3 netscan_tool.py -t 192.168.1.1-254 -s 4
 
 # Custom scan with specific arguments
-python netscan.py -t example.com -s 7 -a "-p 80,443,8080 -sV --script=vuln"
+python netscan_tool.py -t example.com -s 7 -a "-p 80,443,8080 -sV --script=vuln"
 ```
 
 ## Configuration
