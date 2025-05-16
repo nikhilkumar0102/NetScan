@@ -2,7 +2,7 @@
 
 A Python-based network scanning tool by xAI Cybersecurity for network administrators and security professionals.
 
-![NetScan Banner](https://example.com/netscan-banner.png)
+![NetScan Banner](Screenshot/netscan-banner.png)
 
 ## Overview
 
