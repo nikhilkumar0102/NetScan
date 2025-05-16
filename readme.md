@@ -88,7 +88,7 @@ Options:
 Examples:
 ```
 # Quick scan of a single host
-python netscan.py -t 192.168.1.1 -s 1
+python3 ./netscan.py -t 192.168.1.1 -s 1
 
 # Vulnerability scan of a network range
 python netscan.py -t 192.168.1.1-254 -s 4
