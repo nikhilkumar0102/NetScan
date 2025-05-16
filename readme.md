@@ -85,7 +85,8 @@ Options:
 - `-s, --scan`: Scan type (1-7)
 - `-a, --args`: Custom scan arguments (for scan type 7)
 
-Examples:
+Examples:(Screenshot/example.png)
+
 ```
 # Quick scan of a single host
 python3 ./netscan_tool.py -t 192.168.1.1 -s 1
