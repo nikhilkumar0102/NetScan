@@ -85,7 +85,7 @@ Options:
 - `-s, --scan`: Scan type (1-7)
 - `-a, --args`: Custom scan arguments (for scan type 7)
 
-Examples:(Screenshot/example.png)
+![Examples:](Screenshot/example.png)
 
 ```
 # Quick scan of a single host
